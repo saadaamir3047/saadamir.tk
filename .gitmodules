@@ -1,6 +1,6 @@
-[submodule "path_to_submodule"] 
-  path = path_to_submodule 
-  url = git://url-of-source/
+[submodule "saadaamir.tk"] 
+  path = saadaamir.tk 
+  url = https://github.com/saadaamir3047/saadamir.tk.git
   
   
   
